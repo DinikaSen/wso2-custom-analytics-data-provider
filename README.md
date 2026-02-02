@@ -1,6 +1,6 @@
 # Publishing Custom Analytics Events Data with WSO2 API Manager
 
-This repository contains a sample custom analytics data provider for WSO2 API Manager 4.5.0. This enables publishing 
+This repository contains a sample custom analytics data provider for WSO2 API Manager 4.6.0. This enables publishing 
 custom analytics data along with the default data using the existing event schema.
 
 This particular example publishes 'soap_action' property which is set from a mediation policy, but the same approach
