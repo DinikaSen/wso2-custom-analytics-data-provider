@@ -49,7 +49,7 @@ moesifKey = "<MOESIF_KEY>"
 
 ```
 
-### Step 6: Restart the Server
+### Step 4: Restart the Server
 
 Restart the WSO2 API Manager Server.
 
